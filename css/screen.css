@@ -22,7 +22,7 @@
 html {
     font-size: 16px;
     line-height: 1.5;
-    font-family: "droid-serif" /*"Web Inter"*/, "Helvetica Neue", Helvetica, arial, sans-serif;
+    font-family: "droid-serif" /*"Inter Web",*/, "Helvetica Neue", Helvetica, arial, sans-serif;
     color: #4774dc;
     padding: 48px 24px 24px;
 }
@@ -81,6 +81,7 @@ h3 {
 }
 
 h1,h2,h3{
+    font-style: "Inter Web", "Helvetica Neue", Helvetica, arial, sans-serif;
     color: #e85e00;
 }
 
