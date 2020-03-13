@@ -257,6 +257,15 @@ a:focus {
     }
 }
 
+/* 
+    Component: Date
+*/
+
+.c-article__date{
+    
+    color: black;
+}
+
 /*
     Component: Author
 */
